@@ -1,4 +1,4 @@
-# CALCULADORA BÁSICA
+# CALCULADORA BÁSICA (:
 print("Operações dísponiveis: adição, subtração, divisão, multiplicação.") # Mostra as operações possíveiei de se fazer 
 operador = input("Qual operação você deseja fazer? : ").lower() # Pergunta qual operação o usuário quer fazer
 num1 = input("Escolha o primeiro número da operação: ") # Pergunta qual será o primeiro operador
